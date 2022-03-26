@@ -37,7 +37,7 @@ export const Container = styled.form`
         font-size: 1rem;
         margin-top: 1.5rem;
         font-weight: 600;
-        transition: filter 0.3s ease-in-out;
+        transaction: filter 0.3s ease-in-out;
 
         &:hover{
             filter: brightness(0.9)
